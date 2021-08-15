@@ -4,84 +4,83 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 
 # Bölüm 1: Kotlin Programlamaya Giriş
 
-<p> Kotlin Nedir?
-<p> Neden Kotlin ?
-Kullanılan Platformlar Nelerdir?
-Kotlin Native Programlama 
+<p>Kotlin Nedir?
+<p>Neden Kotlin ?
+<p>Kullanılan Platformlar Nelerdir?
+<p>Kotlin Native Programlama 
 
 # Bölüm 2: Android Studio Geliştirme Ortamı Kurulumu
 
-Android Studio
-JDK Nedir?
-JDK Kurulum
-Android Studio Nedir?
-Android Studio Kurulumu
-SDK Nedir?
-SDK Kurulumu
-Emülatör Kurulumu
-Android Studio Emülatör Kurulumu
-Genymotion Kurulumu
+<p>Android Studio
+<p>JDK Nedir?
+<p>JDK Kurulum
+<p>Android Studio Nedir?
+<p>Android Studio Kurulumu
+<p>SDK Nedir?
+<p>SDK Kurulumu
+<p>Android Studio Emülatör Kurulumu
+<p>Genymotion Kurulumu
 
 # Bölüm 3: Kotlin Veri Tipleri ve Değişkenler
 
-Değişken Nedir? Nasıl Tanımlanır?
-val ve var Anahtar Kelimeleri Arasındaki Fark
-Veri Tipi Nedir? Kotlin Veri Tipleri
+<p>Değişken Nedir? Nasıl Tanımlanır?
+<p>val ve var Anahtar Kelimeleri Arasındaki Fark
+<p>Veri Tipi Nedir? Kotlin Veri Tipleri
 
 # Bölüm 4: Null Güvenliği
 
-Null Pointer Exception Hatası Nedir?
-Null–Null Safety
-Non-Null Type (Null Olamayan Tür)
-Nullable Type (Null Olabilen Tür)
-Safe Call Operatörünün Kullanımı (?.)
-Elvis Operatörü(?:)
-!! Operatörü
+<p>Null Pointer Exception Hatası Nedir?
+<p>Null–Null Safety
+<p>Non-Null Type (Null Olamayan Tür)
+<p>Nullable Type (Null Olabilen Tür)
+<p>Safe Call Operatörünün Kullanımı (?.)
+<p>Elvis Operatörü(?:)
+<p>!! Operatörü
 
 # Bölüm 5: Kotlin Operatörleri
 
-Aritmetik Operatörler
-Atama Operatörleri
-Karşılaştırma Operatörleri
-Mantıksal Operatörler
+<p>Aritmetik Operatörler
+<p>Atama Operatörleri
+<p>Karşılaştırma Operatörleri
+<p>Mantıksal Operatörler
 
 # Bölüm 6: Koşullu İfadeler
 
-if-else Koşul Yapısı
-if, else if, else Koşullu Yapısı
-when Koşul Yapısı
-when expression Kullanımı
-when expression Olmadan Kullanımı
-When multiple statement Kullanımı
-When mutliple branches Kullanımı
+<p>if-else Koşul Yapısı
+<p>if, else if, else Koşullu Yapısı
+<p>when Koşul Yapısı
+<p>when expression Kullanımı
+<p>when expression Olmadan Kullanımı
+<p>When multiple statement Kullanımı
+<p>When mutliple branches Kullanımı
 
 # Bölüm 7: Range Kullanımı
 
-Range Nedir?
-rangeTo() Metodunun Kullanımı
-downTo() Metodunun Kullanımı
-step() Metodunun Kullanımı
-until() Metodunun Kullanımı
-reversed() Metodunun Kullanımı
-filter() Metodunun Kullanımı
-Diğer Metotların Kullanımı
+<p>Range Nedir?
+<p>rangeTo() Metodunun Kullanımı
+<p>downTo() Metodunun Kullanımı
+<p>step() Metodunun Kullanımı
+<p>until() Metodunun Kullanımı
+<p>reversed() Metodunun Kullanımı
+<p>filter() Metodunun Kullanımı
+<p>Diğer Metotların Kullanımı
 
 
 # Bölüm 8: Döngüler ve Hata Ayıklama
 
-for Döngüsü
-while Döngüsü
-do-while Döngüsü
-Break, Contiune ve Label Kullanımı
-try-catch Blokları
+<p>for Döngüsü
+<p>while Döngüsü
+<p>do-while Döngüsü
+<p>Break, Contiune ve Label Kullanımı
+<p>try-catch Blokları
 
 
 # Bölüm 9: Diziler
 
-Dizi Tanımlama
-Dizi Değer Atama
-Dizi Değer Okuma
-arrayOf Kullanımı
+<p>Dizi Tanımlama
+<p>Dizi Değer Atama
+<p>Dizi Değer Okuma
+<p>arrayOf Kullanımı
 
 
 # to be continued...
