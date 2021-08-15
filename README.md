@@ -4,7 +4,7 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 
 # Bölüm 1: Kotlin Programlamaya Giriş
 
-Kotlin Nedir?
+<p> Kotlin Nedir?
 Neden Kotlin ?
 Kullanılan Platformlar Nelerdir?
 Kotlin Native Programlama 
