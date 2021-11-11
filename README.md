@@ -72,6 +72,7 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>while Döngüsü
 <p>do-while Döngüsü
 <p>Break, Contiune ve Label Kullanımı
+<p>repeat kullanımı
 <p>try-catch Blokları
 
 
