@@ -73,8 +73,9 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>do-while Döngüsü
 <p>Break, Contiune ve Label Kullanımı
 <p>repeat kullanımı
+<p>iterable kullanımı
 <p>try-catch Blokları
-
+  
 
 # Bölüm 9: Diziler
 
