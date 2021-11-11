@@ -93,6 +93,12 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>Map Kullanımı  
 <p>Set Kullanımı
   
+# Bölüm Numaralandırma Sınıfı (Enum Kavramı)
+<p>Enum Tanımlama
+<p>Numaralandırma Enum
+<p>Basit Enum
+<p>Değiştirilebilir Enum  
+  
 
 # to be continued...
 
