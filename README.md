@@ -101,6 +101,17 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>Basit Enum
 <p>Değiştirilebilir Enum  
   
+# Bölüm 12 Fonksiyonlar
+<p>Fonksiyon Nedir?
+<p>Fonksiyon Tanımlama
+<p>Temel Fonksiyonlar
+<p>Inline Fonksiyon
+<p>Lambda Fonksiyon
+<p>Operator Fonksiyon
+<p>Shorthand Fonksiyon
+<p>Spread Operator Fonksiyon  
+  
+  
 
 # to be continued...
 
