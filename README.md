@@ -82,7 +82,9 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>Dizi Tanımlama
 <p>Dizi Değer Atama
 <p>Dizi Değer Okuma
-<p>arrayOf Kullanımı
+<p>Dizi Türleri (ilkel)
+<p>Iterate Dizi  
+<p>arrayOf Kullanımı  
 
 
 # to be continued...
