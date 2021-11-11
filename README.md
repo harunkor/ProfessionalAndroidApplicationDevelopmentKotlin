@@ -87,5 +87,12 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>arrayOf Kullanımı  
 
 
+# Bölüm 10: Koleksiyonlar
+
+<p>List Kullanımı
+<p>Map Kullanımı  
+<p>Set Kullanımı
+  
+
 # to be continued...
 
