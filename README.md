@@ -103,13 +103,20 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
   
 # Bölüm 12 Fonksiyonlar
 <p>Fonksiyon Nedir?
-<p>Fonksiyon Tanımlama
+<p>Fonksiyon Kullanımı
 <p>Temel Fonksiyonlar
 <p>Inline Fonksiyon
 <p>Lambda Fonksiyon
 <p>Operator Fonksiyon
 <p>Shorthand Fonksiyon
-<p>Spread Operator Fonksiyon  
+<p>Spread Operator Fonksiyon
+<p>Unit-returning  Fonksiyon
+<p>Single-expression Fonksiyon  
+<p>Fonksiyon Parametreleri
+    <p>Default (Varsayılan) Fonksiyon Parametreleri 
+    <p>Named (Tanımlandırılmış) Fonksiyon Parametreleri
+    <p>varargs (Variable Number Of Function Parameter)
+      
   
   
 
