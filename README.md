@@ -63,7 +63,7 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>until() Metodunun Kullanımı
 <p>reversed() Metodunun Kullanımı
 <p>filter() Metodunun Kullanımı
-<p>Diğer Metotların Kullanımı
+<p>İntegral Range Kullanımı
 
 
 # Bölüm 8: Döngüler ve Hata Ayıklama
