@@ -111,7 +111,8 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>Shorthand Fonksiyon
 <p>Spread Operator Fonksiyon
 <p>Unit-returning  Fonksiyon
-<p>Single-expression Fonksiyon  
+<p>Single-expression Fonksiyon
+<p>Infix Fonksiyon  
 <p>Fonksiyon Parametreleri
     <p>Default (Varsayılan) Fonksiyon Parametreleri 
     <p>Named (Tanımlandırılmış) Fonksiyon Parametreleri
