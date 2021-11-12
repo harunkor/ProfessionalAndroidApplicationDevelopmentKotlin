@@ -53,9 +53,7 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>if, else if, else Devam Eden Koşullu Yapısı Yerine when 
 <p>when Koşullu İfadesi
 <p>when Koşullu Atama Kullanımı
-<p>when expression Olmadan Kullanımı
-<p>When multiple statement Kullanımı
-<p>When mutliple branches Kullanımı
+<p>when Koşullu İfadesi ile enum Kullanımı
 
 # Bölüm 7: Range Kullanımı
 
