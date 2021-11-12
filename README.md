@@ -49,9 +49,10 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 # Bölüm 6: Koşullu İfadeler
 
 <p>if-else Koşul Yapısı
-<p>if, else if, else Koşullu Yapısı
-<p>when Koşul Yapısı
-<p>when expression Kullanımı
+<p>if-else Koşullu Atama Kullanımı  
+<p>if, else if, else Devam Eden Koşullu Yapısı Yerine when 
+<p>when Koşullu İfadesi
+<p>when Koşullu Atama Kullanımı
 <p>when expression Olmadan Kullanımı
 <p>When multiple statement Kullanımı
 <p>When mutliple branches Kullanımı
