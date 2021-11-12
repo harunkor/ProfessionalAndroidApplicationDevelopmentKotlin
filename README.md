@@ -128,7 +128,7 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>Protected
 <p>Internal  
 
-#Bölüm 14 Interface Sınıfı
+# Bölüm 14 Interface Sınıfı
 <p>Interface Oluşturma
 <p>Interface Kullanımı
 <p>Özellik Interface Kullanımı  
