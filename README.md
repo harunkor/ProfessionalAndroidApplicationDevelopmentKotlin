@@ -135,7 +135,7 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>Interface Super Kullanımı
 <p>Multi Interface Kullanımı  
   
-# Bölüm 15 Delegation Yapısı (Delegation pattern)
+# Bölüm 15 Delegation Yapısı (Delegation Pattern)
 <p>Delegation Yapısı ve Kullanımı
   
   
