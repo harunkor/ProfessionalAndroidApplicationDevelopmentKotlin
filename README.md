@@ -138,6 +138,8 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 # Bölüm 15 Delegation Yapısı (Delegation Pattern)
 <p>Delegation Yapısı ve Kullanımı
   
+# Bölüm 16 Singleton Yapısı (Singleton Pattern)
+<p>Singleton Yapısı ve Kullanımı  
   
   
     
