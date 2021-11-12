@@ -136,7 +136,7 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>Multi Interface Kullanımı  
 
   
-# Bölüm 15 Tasarım Desenleri(Design Patterns) 
+# Bölüm 15 Tasarım Desenleri (Design Patterns) 
  
   
   
