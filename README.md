@@ -138,7 +138,7 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
   
 # Bölüm 15 Tasarım Desenleri (Design Patterns) 
 ## Behavioral Patterns
-<p>Observer / Listener
+   Observer / Listener
 <p>Strategy
 <p>Command
 <p>State
@@ -147,12 +147,12 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>Mediator
 <p>Memento
 ## Creational Patterns
-<p>Builder / Assembler
+   Builder / Assembler
 <p>Factory Method
 <p>Singleton
 <p>Abstract Factory
 ## Structural Patterns
-<p>Adapter
+   Adapter
 <p>Decorator
 <p>Facade
 <p>Protection Proxy
