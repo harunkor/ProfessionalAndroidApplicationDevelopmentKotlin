@@ -122,8 +122,12 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
     <p>Named (Tanımlandırılmış) Fonksiyon Parametreleri
     <p>varargs (Variable Number Of Function Parameter)
       
-  
-  
+# Bölüm 13 Görünürlük Değiştirme (Visibility Modifiers)           
+<p>Public
+<p>Private
+<p>Protected
+<p>Internal  
+    
 
 # to be continued...
 
