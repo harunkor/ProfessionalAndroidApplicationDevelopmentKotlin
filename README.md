@@ -119,9 +119,9 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>Tail recursive Fonksiyon
 <p>Extension Fonksiyon  
 <p>Fonksiyon Parametreleri
-    <p>Default (Varsayılan) Fonksiyon Parametreleri 
-    <p>Named (Tanımlandırılmış) Fonksiyon Parametreleri
-    <p>varargs (Variable Number Of Function Parameter)
+    <t>Default (Varsayılan) Fonksiyon Parametreleri 
+    <t>Named (Tanımlandırılmış) Fonksiyon Parametreleri
+    <t>varargs (Variable Number Of Function Parameter)
       
   
   
