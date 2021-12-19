@@ -151,6 +151,7 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
   
 ##### Builder / Assembler
 ##### Factory Method
+##### Dependency Injection
 ##### Singleton
 ##### Abstract Factory
   
