@@ -98,6 +98,10 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>Immutable Map Kullanımı (mapOf) (Immutable Read Only)
 <p>Immutable Set Kullanımı (setOf)(Immutable Read Only)
   
+<p>Mutable List Kullanımı (mutableListOf) (Mutable)
+<p>Mutable Map Kullanımı  (mutableMapOf) (Mutable)
+<p>Mutable Set Kullanımı (mutableSetOf) (Mutable)
+  
   
 # Bölüm 11 Numaralandırma Sınıfı (Enum Kavramı)
 <p>Enum Tanımlama
