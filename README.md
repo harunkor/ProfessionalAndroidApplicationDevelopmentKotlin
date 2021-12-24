@@ -92,11 +92,12 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>listOf  Kullanımı 
 
 
-# Bölüm 10: Koleksiyonlar (Immutable Read Only)
-
-<p>List Kullanımı (listOf)
-<p>Map Kullanımı (mapOf) 
-<p>Set Kullanımı (setOf)
+# Bölüm 10: Koleksiyonlar 
+  
+<p>Immutable List Kullanımı (listOf)(Immutable Read Only)
+<p>Immutable Map Kullanımı (mapOf) (Immutable Read Only)
+<p>Immutable Set Kullanımı (setOf)(Immutable Read Only)
+  
   
 # Bölüm 11 Numaralandırma Sınıfı (Enum Kavramı)
 <p>Enum Tanımlama
