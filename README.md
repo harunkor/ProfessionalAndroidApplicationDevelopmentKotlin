@@ -27,6 +27,7 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>val ve var Anahtar Kelimeleri Arasındaki Fark
 <p>Veri Tipi Nedir? 
 <p>Kotlin Veri Tipleri
+<p>Kotlin Veri Tipi Dönüşümleri
 <p>Metot Nedir?  
 
 # Bölüm 4: Null Güvenliği
