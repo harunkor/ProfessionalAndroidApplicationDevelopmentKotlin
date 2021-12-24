@@ -89,7 +89,6 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>Dizi Türleri (ilkel)
 <p>Iterate Dizi  
 <p>arrayOf Kullanımı
-<p>listOf  Kullanımı 
 
 
 # Bölüm 10: Koleksiyonlar 
