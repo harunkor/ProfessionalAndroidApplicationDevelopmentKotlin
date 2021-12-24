@@ -74,10 +74,10 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>while Döngüsü
 <p>do-while Döngüsü
 <p>Break, Contiune ve Label Kullanımı
-<p>repeat kullanımı
-<p>iterable kullanımı
-<p>iterator kullanımı
-<p>forEach kullanımı  
+<p>repeat Kullanımı
+<p>iterable Kullanımı
+<p>iterator Kullanımı
+<p>forEach Kullanımı  
 <p>try-catch Blokları
   
 
@@ -88,7 +88,8 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>Dizi Değer Okuma
 <p>Dizi Türleri (ilkel)
 <p>Iterate Dizi  
-<p>arrayOf Kullanımı  
+<p>arrayOf Kullanımı
+<p>listOf  Kullanımı 
 
 
 # Bölüm 10: Koleksiyonlar
