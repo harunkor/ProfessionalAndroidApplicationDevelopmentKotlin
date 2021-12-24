@@ -102,6 +102,10 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>Mutable Map Kullanımı  (mutableMapOf) (Mutable)
 <p>Mutable Set Kullanımı (mutableSetOf) (Mutable)
   
+<p>Mutable ArrayList Kullanımı (arrayListOf) (Mutable)
+<p>Mutable HashMap Kullanımı (hashMapOf) (Mutable)
+<p>Mutable HashSet Kullanımı (hashSetOf) (Mutable)  
+  
   
 # Bölüm 11 Numaralandırma Sınıfı (Enum Kavramı)
 <p>Enum Tanımlama
