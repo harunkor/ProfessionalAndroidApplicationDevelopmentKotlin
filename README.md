@@ -94,9 +94,9 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 
 # Bölüm 10: Koleksiyonlar
 
-<p>List Kullanımı
-<p>Map Kullanımı  
-<p>Set Kullanımı
+<p>List Kullanımı (listOf)
+<p>Map Kullanımı (mapOf) 
+<p>Set Kullanımı (setOf)
   
 # Bölüm 11 Numaralandırma Sınıfı (Enum Kavramı)
 <p>Enum Tanımlama
