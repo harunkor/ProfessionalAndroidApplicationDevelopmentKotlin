@@ -76,6 +76,7 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>Break, Contiune ve Label Kullanımı
 <p>repeat kullanımı
 <p>iterable kullanımı
+<p>iterator kullanımı  
 <p>try-catch Blokları
   
 
