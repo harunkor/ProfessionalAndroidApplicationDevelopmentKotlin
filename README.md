@@ -70,13 +70,14 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 
 # Bölüm 8: Döngüler ve Hata Ayıklama
 
-<p>for Döngüsü
+<p>for Döngüsü  
 <p>while Döngüsü
 <p>do-while Döngüsü
 <p>Break, Contiune ve Label Kullanımı
 <p>repeat kullanımı
 <p>iterable kullanımı
-<p>iterator kullanımı  
+<p>iterator kullanımı
+<p>forEach kullanımı  
 <p>try-catch Blokları
   
 
