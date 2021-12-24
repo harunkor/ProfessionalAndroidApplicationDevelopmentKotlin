@@ -92,7 +92,7 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>listOf  Kullanımı 
 
 
-# Bölüm 10: Koleksiyonlar
+# Bölüm 10: Koleksiyonlar (Immutable Read Only)
 
 <p>List Kullanımı (listOf)
 <p>Map Kullanımı (mapOf) 
