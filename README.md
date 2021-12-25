@@ -129,6 +129,11 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
     <p>varargs (Variable Number Of Function Parameter)
       
       
+#Bölüm 12 Layout'lar (Layouts)    
+<p>ConstraintLayout
+<p>MotionLayout
+      
+      
 # Bölüm 12 Numaralandırma Sınıfı (Enum Kavramı)
 <p>Enum Tanımlama
 <p>Numaralandırma Enum
