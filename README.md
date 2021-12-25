@@ -132,6 +132,8 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 # Bölüm 12 Layout'lar (Layouts)    
 <p>ConstraintLayout
 <p>MotionLayout
+<p>SlidingPaneLayout
+<p>FrameLayout  
       
       
 # Bölüm 12 Numaralandırma Sınıfı (Enum Kavramı)
