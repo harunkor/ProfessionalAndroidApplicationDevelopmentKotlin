@@ -136,7 +136,8 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>FrameLayout 
 <p>LinearLayout
 <p>RelativeLayout
-<p>ReactiveGuide  
+<p>ReactiveGuide
+<p>TableLayout  
       
       
 # Bölüm 12 Numaralandırma Sınıfı (Enum Kavramı)
