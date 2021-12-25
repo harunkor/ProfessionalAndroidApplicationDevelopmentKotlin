@@ -133,7 +133,9 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>ConstraintLayout
 <p>MotionLayout
 <p>SlidingPaneLayout
-<p>FrameLayout  
+<p>FrameLayout 
+<p>LinearLayout
+<p>RelativeLayout  
       
       
 # Bölüm 12 Numaralandırma Sınıfı (Enum Kavramı)
