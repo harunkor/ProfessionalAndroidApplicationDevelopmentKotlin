@@ -104,15 +104,9 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>Mutable ArrayList Kullanımı (arrayListOf) (Mutable)
 <p>Mutable HashMap Kullanımı (hashMapOf) (Mutable)
 <p>Mutable HashSet Kullanımı (hashSetOf) (Mutable)  
+ 
   
-  
-# Bölüm 11 Numaralandırma Sınıfı (Enum Kavramı)
-<p>Enum Tanımlama
-<p>Numaralandırma Enum
-<p>Basit Enum
-<p>Değiştirilebilir Enum  
-  
-# Bölüm 12 Fonksiyonlar
+# Bölüm 11 Fonksiyonlar
 <p>Fonksiyon Nedir?
 <p>Fonksiyon Kullanımı
 <p>Temel Fonksiyonlar
@@ -133,6 +127,13 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
     <p>Default (Varsayılan) Fonksiyon Parametreleri 
     <p>Named (Tanımlandırılmış) Fonksiyon Parametreleri
     <p>varargs (Variable Number Of Function Parameter)
+      
+      
+# Bölüm 12 Numaralandırma Sınıfı (Enum Kavramı)
+<p>Enum Tanımlama
+<p>Numaralandırma Enum
+<p>Basit Enum
+<p>Değiştirilebilir Enum        
       
 # Bölüm 13 Görünürlük Değiştirme (Visibility Modifiers)           
 <p>Public
