@@ -143,7 +143,11 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>Button
 <p>ImageButton
 <p>CheckBox
-<p>RadioButton  
+<p>RadioButton
+<p>ToggleButton
+<p>Switch
+<p>Chip (Material Component)
+<p>FloatingActionButton (Material Component)  
       
 # Bölüm 12 Numaralandırma Sınıfı (Enum Kavramı)
 <p>Enum Tanımlama
