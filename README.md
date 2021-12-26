@@ -146,8 +146,8 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>RadioButton
 <p>ToggleButton
 <p>Switch
-<p>Chip (Material Component)
-<p>FloatingActionButton (Material Component)  
+<p>Chip (Material Design Component)
+<p>FloatingActionButton (Material Design Component)
       
 # Bölüm 12 Numaralandırma Sınıfı (Enum Kavramı)
 <p>Enum Tanımlama
