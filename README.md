@@ -141,7 +141,9 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
   
 # Bölüm 12 Butonlar (Buttons)
 <p>Button
-<p>ImageButton  
+<p>ImageButton
+<p>CheckBox
+<p>RadioButton  
       
 # Bölüm 12 Numaralandırma Sınıfı (Enum Kavramı)
 <p>Enum Tanımlama
