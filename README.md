@@ -138,7 +138,10 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>RelativeLayout
 <p>ReactiveGuide
 <p>TableLayout  
-      
+  
+# Bölüm 12 Butonlar (Buttons)
+<p>Button
+<p>ImageButton  
       
 # Bölüm 12 Numaralandırma Sınıfı (Enum Kavramı)
 <p>Enum Tanımlama
