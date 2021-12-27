@@ -197,7 +197,17 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>ListView
 <p>TabHost
 <p>RelativeLayout
-<p>GridView  
+<p>GridView 
+  
+# Bölüm 14 Yardımcılar (Helpers)
+<p>Group
+<p>Barrier(Horizontal)-Barrier(Vertical)
+<p>Flow
+<p>Guideline(Horizontal)-Guideline(Vertical) 
+<p>Layer
+<p>ImageFilterView
+<p>ImageFilterButton
+<p>MockView  
       
 # Bölüm 14 Numaralandırma Sınıfı (Enum Kavramı)
 <p>Enum Tanımlama
