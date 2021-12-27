@@ -177,6 +177,20 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>NavHostFragment
 <p>view
 <p>requestFocus  
+  
+# Bölüm 14  Widgets (Araçlar)
+<p>View
+<p>ImageView
+<p>WebView
+<p>VideoView
+<p>CalendarView
+<p>ProgressBar-ProgressBar(Horizontal)
+<p>SeekBar-Seekbar(Discrete)
+<p>RatingBar
+<p>SearchView
+<p>TextureView
+<p>SurfaceView
+<p>Horizantal-Vertical Divider  
       
 # Bölüm 14 Numaralandırma Sınıfı (Enum Kavramı)
 <p>Enum Tanımlama
