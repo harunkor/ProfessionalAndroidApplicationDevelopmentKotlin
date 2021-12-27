@@ -178,7 +178,7 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>view
 <p>requestFocus  
   
-# Bölüm 14  Widgets (Araçlar)
+# Bölüm 14 Araçlar (Widgets)
 <p>View
 <p>ImageView
 <p>WebView
