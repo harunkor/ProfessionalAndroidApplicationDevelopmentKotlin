@@ -191,6 +191,13 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>TextureView
 <p>SurfaceView
 <p>Horizantal-Vertical Divider  
+  
+# Bölüm 14 Miras (Legacy)
+<p>GridLayout
+<p>ListView
+<p>TabHost
+<p>RelativeLayout
+<p>GridView  
       
 # Bölüm 14 Numaralandırma Sınıfı (Enum Kavramı)
 <p>Enum Tanımlama
