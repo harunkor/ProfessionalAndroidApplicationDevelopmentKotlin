@@ -128,6 +128,37 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
     <p>Named (Tanımlandırılmış) Fonksiyon Parametreleri
     <p>varargs (Variable Number Of Function Parameter)
       
+# Bölüm 14 Metinler (Texts)
+<p>TextView
+<p>AutoCompleteTextView
+<p>MultiAutoCompleteTextView
+<p>CheckedTextView  
+<p>EditText
+<p>TextInputLayout (Material Design Component) 
+  
+# Bölüm 13 Butonlar (Buttons)
+<p>Button
+<p>ImageButton
+<p>CheckBox
+<p>RadioButton
+<p>ToggleButton
+<p>Switch
+<p>Chip (Material Design Component)
+<p>FloatingActionButton (Material Design Component)  
+
+# Bölüm 14 Araçlar (Widgets)
+<p>View
+<p>ImageView
+<p>WebView
+<p>VideoView
+<p>CalendarView
+<p>ProgressBar-ProgressBar(Horizontal)
+<p>SeekBar-Seekbar(Discrete)
+<p>RatingBar
+<p>SearchView
+<p>TextureView
+<p>SurfaceView
+<p>Horizantal-Vertical Divider   
       
 # Bölüm 12 Layout'lar (Layouts)    
 <p>ConstraintLayout
@@ -140,23 +171,6 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>TableLayout
 <p>Space  
   
-# Bölüm 13 Butonlar (Buttons)
-<p>Button
-<p>ImageButton
-<p>CheckBox
-<p>RadioButton
-<p>ToggleButton
-<p>Switch
-<p>Chip (Material Design Component)
-<p>FloatingActionButton (Material Design Component)
-  
-# Bölüm 14 Metinler (Texts)
-<p>TextView
-<p>AutoCompleteTextView
-<p>MultiAutoCompleteTextView
-<p>CheckedTextView  
-<p>EditText
-<p>TextInputLayout (Material Design Component) 
   
 # Bölüm 14 Konteynerler (Containers) 
 <p>Spinner
@@ -178,27 +192,6 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>view
 <p>requestFocus  
   
-# Bölüm 14 Araçlar (Widgets)
-<p>View
-<p>ImageView
-<p>WebView
-<p>VideoView
-<p>CalendarView
-<p>ProgressBar-ProgressBar(Horizontal)
-<p>SeekBar-Seekbar(Discrete)
-<p>RatingBar
-<p>SearchView
-<p>TextureView
-<p>SurfaceView
-<p>Horizantal-Vertical Divider  
-  
-# Bölüm 14 Miras (Legacy)
-<p>GridLayout
-<p>ListView
-<p>TabHost
-<p>RelativeLayout
-<p>GridView 
-  
 # Bölüm 14 Yardımcılar (Helpers)
 <p>Group
 <p>Barrier(Horizontal)-Barrier(Vertical)
@@ -207,7 +200,15 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>Layer
 <p>ImageFilterView
 <p>ImageFilterButton
-<p>MockView  
+<p>MockView   
+  
+# Bölüm 14 Miras (Legacy)
+<p>GridLayout
+<p>ListView
+<p>TabHost
+<p>RelativeLayout
+<p>GridView 
+  
       
 # Bölüm 14 Numaralandırma Sınıfı (Enum Kavramı)
 <p>Enum Tanımlama
