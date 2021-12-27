@@ -155,7 +155,7 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>MultiAutoCompleteTextView
 <p>CheckedTextView  
 <p>EditText
-<p>  
+<p>TextInputLayout (Material Design Component)  
       
 # Bölüm 14 Numaralandırma Sınıfı (Enum Kavramı)
 <p>Enum Tanımlama
