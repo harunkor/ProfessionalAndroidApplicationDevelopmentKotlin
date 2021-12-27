@@ -156,7 +156,27 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>MultiAutoCompleteTextView
 <p>CheckedTextView  
 <p>EditText
-<p>TextInputLayout (Material Design Component)  
+<p>TextInputLayout (Material Design Component) 
+  
+# Bölüm 14 Konteynerler (Containers) 
+<p>Spinner
+<p>RecyclerView
+<p>ScrollView
+<p>HorizontalScrollView
+<p>NestedScrollView 
+<p>ViewPager2 
+<p>AppBarLayout (Material Design Component) 
+<p>BottomAppBar (Material Design Component)   
+<p>NavigationView (Material Design Component)  
+<p>BottomNavigationView (Material Design Component)
+<p>Toolbar
+<p>TabLayout (Material Design Component)
+<p>ViewStub
+<p>include
+<p>FragmentContainerView
+<p>NavHostFragment
+<p>view
+<p>requestFocus  
       
 # Bölüm 14 Numaralandırma Sınıfı (Enum Kavramı)
 <p>Enum Tanımlama
