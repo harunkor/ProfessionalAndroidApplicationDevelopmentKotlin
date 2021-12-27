@@ -148,6 +148,14 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>Switch
 <p>Chip (Material Design Component)
 <p>FloatingActionButton (Material Design Component)
+  
+# Bölüm 14 Metinler (Texts)
+<p>TextView
+<p>AutoCompleteTextView
+<p>MultiAutoCompleteTextView
+<p>CheckedTextView  
+<p>EditText
+<p>  
       
 # Bölüm 14 Numaralandırma Sınıfı (Enum Kavramı)
 <p>Enum Tanımlama
@@ -175,7 +183,7 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 ##### Strategy
 ##### Command
 ##### State
-#####  Chain of Responsibility
+##### Chain of Responsibility
 ##### Visitor
 ##### Mediator
 ##### Memento
