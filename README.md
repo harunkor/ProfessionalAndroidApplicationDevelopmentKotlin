@@ -128,7 +128,7 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
     <p>Named (Tanımlandırılmış) Fonksiyon Parametreleri
     <p>varargs (Variable Number Of Function Parameter)
       
-# Bölüm 14 Metinler (Texts)
+# Bölüm 12 Metinler (Texts)
 <p>TextView
 <p>AutoCompleteTextView
 <p>MultiAutoCompleteTextView
@@ -160,7 +160,7 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>SurfaceView
 <p>Horizantal-Vertical Divider   
       
-# Bölüm 12 Layout'lar (Layouts)    
+# Bölüm 15 Layout'lar (Layouts)    
 <p>ConstraintLayout
 <p>MotionLayout
 <p>SlidingPaneLayout
@@ -172,7 +172,7 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>Space  
   
   
-# Bölüm 14 Konteynerler (Containers) 
+# Bölüm 16 Konteynerler (Containers) 
 <p>Spinner
 <p>RecyclerView
 <p>ScrollView
@@ -192,7 +192,7 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>view
 <p>requestFocus  
   
-# Bölüm 14 Yardımcılar (Helpers)
+# Bölüm 17 Yardımcılar (Helpers)
 <p>Group
 <p>Barrier(Horizontal)-Barrier(Vertical)
 <p>Flow
@@ -200,9 +200,14 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>Layer
 <p>ImageFilterView
 <p>ImageFilterButton
-<p>MockView   
+<p>MockView
   
-# Bölüm 14 Miras (Legacy)
+  
+# Bölüm 18  Google
+<p>AdView
+<p>MapView  
+  
+# Bölüm 19 Miras (Legacy)
 <p>GridLayout
 <p>ListView
 <p>TabHost
@@ -210,19 +215,19 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>GridView 
   
       
-# Bölüm 14 Numaralandırma Sınıfı (Enum Kavramı)
+# Bölüm 20 Numaralandırma Sınıfı (Enum Kavramı)
 <p>Enum Tanımlama
 <p>Numaralandırma Enum
 <p>Basit Enum
 <p>Değiştirilebilir Enum        
       
-# Bölüm 15 Görünürlük Değiştirme (Visibility Modifiers)           
+# Bölüm 21 Görünürlük Değiştirme (Visibility Modifiers)           
 <p>Public
 <p>Private
 <p>Protected
 <p>Internal  
 
-# Bölüm 16 Interface Sınıfı
+# Bölüm 22 Interface Sınıfı
 <p>Interface Oluşturma
 <p>Interface Kullanımı
 <p>Özellik Interface Kullanımı  
@@ -230,7 +235,7 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>Multi Interface Kullanımı  
 
   
-# Bölüm 17 Tasarım Desenleri (Design Patterns) 
+# Bölüm 23 Tasarım Desenleri (Design Patterns) 
 ## Behavioral Patterns
 ##### Observer / Listener
 ##### Strategy
