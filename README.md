@@ -137,7 +137,8 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>LinearLayout
 <p>RelativeLayout
 <p>ReactiveGuide
-<p>TableLayout  
+<p>TableLayout
+<p>Space  
   
 # Bölüm 13 Butonlar (Buttons)
 <p>Button
