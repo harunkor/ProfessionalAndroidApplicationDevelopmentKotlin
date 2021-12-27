@@ -139,7 +139,7 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>ReactiveGuide
 <p>TableLayout  
   
-# Bölüm 12 Butonlar (Buttons)
+# Bölüm 13 Butonlar (Buttons)
 <p>Button
 <p>ImageButton
 <p>CheckBox
@@ -149,19 +149,19 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>Chip (Material Design Component)
 <p>FloatingActionButton (Material Design Component)
       
-# Bölüm 12 Numaralandırma Sınıfı (Enum Kavramı)
+# Bölüm 14 Numaralandırma Sınıfı (Enum Kavramı)
 <p>Enum Tanımlama
 <p>Numaralandırma Enum
 <p>Basit Enum
 <p>Değiştirilebilir Enum        
       
-# Bölüm 13 Görünürlük Değiştirme (Visibility Modifiers)           
+# Bölüm 15 Görünürlük Değiştirme (Visibility Modifiers)           
 <p>Public
 <p>Private
 <p>Protected
 <p>Internal  
 
-# Bölüm 14 Interface Sınıfı
+# Bölüm 16 Interface Sınıfı
 <p>Interface Oluşturma
 <p>Interface Kullanımı
 <p>Özellik Interface Kullanımı  
@@ -169,7 +169,7 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 <p>Multi Interface Kullanımı  
 
   
-# Bölüm 15 Tasarım Desenleri (Design Patterns) 
+# Bölüm 17 Tasarım Desenleri (Design Patterns) 
 ## Behavioral Patterns
 ##### Observer / Listener
 ##### Strategy
