@@ -263,7 +263,19 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 ##### Composite 
  
   
-    
-
+   
 # to be continued...
+  
+#Bölüm 24 Android Architecture Components
+  
+<p>Room 
+<p>Lifecycle 
+<p>ViewModel
+<p>LiveData 
+<p>Coroutines
+<p>View Binding 
+<p>Data Binding
+<p>Paging Library
+<p>Navigation
+<p>WorkManager
 
