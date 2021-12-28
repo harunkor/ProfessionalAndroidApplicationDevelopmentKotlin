@@ -266,7 +266,7 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
    
 # to be continued...
   
-#Bölüm 24 Android Architecture Components
+# Bölüm 24 Android Architecture Components
   
 <p>Room 
 <p>Lifecycle 
