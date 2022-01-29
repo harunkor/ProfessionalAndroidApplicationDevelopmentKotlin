@@ -252,7 +252,7 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 ##### Factory Method
 ##### Dependency Injection
 ##### Singleton
-##### Abstract Factory
+##### [Abstract Factory](https://github.com/harunkor/AbstractFactoryDesignPatternWithKotlin){:target="_blank"}
   
 ## Structural Patterns
   
