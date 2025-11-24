@@ -245,6 +245,9 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 ##### Visitor
 ##### Mediator
 ##### Memento
+##### Template Method
+##### Iterator
+##### Interpreter
   
 ## Creational Patterns
   
@@ -252,15 +255,19 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 ##### Factory Method
 ##### Dependency Injection
 ##### Singleton
+##### Prototype
 ##### [Abstract Factory](https://github.com/harunkor/AbstractFactoryDesignPatternWithKotlin)
   
 ## Structural Patterns
   
 ##### Adapter
+##### Bridge
+##### Composite 
 ##### Decorator
 ##### Facade
+##### Flyweight
 ##### Protection Proxy
-##### Composite 
+
  
   
    
