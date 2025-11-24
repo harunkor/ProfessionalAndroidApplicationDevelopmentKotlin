@@ -236,9 +236,9 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 
   
 # Bölüm 23 Tasarım Desenleri (Design Patterns) 
-## Gang Of Four Design Patterns(GoF)
+##  1- Gang Of Four Design Patterns(GoF)
 
-## Behavioral Patterns
+## ➤ Behavioral Patterns
 
 ##### Observer / Listener
 ##### Strategy
@@ -252,7 +252,7 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 ##### Iterator
 ##### Interpreter
   
-## Creational Patterns
+## ➤ Creational Patterns
 
 ##### Builder / Assembler
 ##### Factory Method
@@ -261,7 +261,7 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 ##### Prototype
 ##### [Abstract Factory](https://github.com/harunkor/AbstractFactoryDesignPatternWithKotlin)
   
-## Structural Patterns
+## ➤ Structural Patterns
   
 ##### Adapter
 ##### Bridge
@@ -271,51 +271,51 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 ##### Flyweight
 ##### Protection Proxy
 
-## Concurrency Patterns 
+## 2- Concurrency Patterns 
   ...
   ...
-## Architectural Patterns
+## 3- Architectural Patterns
 ...
 ...
 .
-## Enterprise Patterns
+## 4- Enterprise Patterns
 ...
 ...
-## Cloud & Microservice Patterns
+## 5- Cloud & Microservice Patterns
 ...
 ...
 ...
-## Integration Patterns
+## 6- Integration Patterns
 ...
 ..
 .
-## DevOps Patterns
+## 7- DevOps Patterns
 ...
 ...
-## UI / Presentation Patterns
+## 8- UI / Presentation Patterns
 ..
 .
 .
-## Security Patterns
+## 9- Security Patterns
 ..
 ..
 .
-## Data Access Patterns
+## 10- Data Access Patterns
 ..
 ...
 .
-## Testing Patterns
+## 11- Testing Patterns
 ..
 ..
 .
-## Performance Patterns
+## 12- Performance Patterns
 ..
 .
-## Refactoring Patterns
+## 13- Refactoring Patterns
 ..
 ..
 .
-## Messaging / Event Patterns
+## 14- Messaging / Event Patterns
   
    
 # to be continued...
