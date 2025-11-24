@@ -236,7 +236,7 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 
   
 # Bölüm 23 Tasarım Desenleri (Design Patterns) 
-##Gang Of Four Design Patterns(GoF)
+## Gang Of Four Design Patterns(GoF)
 
 ## Behavioral Patterns
 
