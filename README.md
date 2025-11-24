@@ -271,7 +271,51 @@ Profesyoneller için  Kotlin ile Android Uygulama Geliştirme
 ##### Flyweight
 ##### Protection Proxy
 
- 
+## Concurrency Patterns 
+  ...
+  ...
+## Architectural Patterns
+...
+...
+.
+## Enterprise Patterns
+...
+...
+## Cloud & Microservice Patterns
+...
+...
+...
+## Integration Patterns
+...
+..
+.
+## DevOps Patterns
+...
+...
+## UI / Presentation Patterns
+..
+.
+.
+## Security Patterns
+..
+..
+.
+## Data Access Patterns
+..
+...
+.
+## Testing Patterns
+..
+..
+.
+## Performance Patterns
+..
+.
+## Refactoring Patterns
+..
+..
+.
+## Messaging / Event Patterns
   
    
 # to be continued...
